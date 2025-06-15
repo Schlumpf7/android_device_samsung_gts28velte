@@ -253,7 +253,7 @@
                        sources="primary output"/>
                 <route type="mix" sink="Telephony Tx"
                        sources="voice_tx"/>
-                <route type="mix" sink="primary retiredtab/proprietary_vendor_samsung_msm8976/blob/lineage-18.1/gts28velte/gts28velte-vendor.mkinput"
+                <route type="mix" sink="primary input"
                        sources="Wired Headset Mic,BT SCO Headset Mic,FM Tuner,Telephony Rx"/>
                 <route type="mix" sink="surround_sound"
                        sources="Built-In Mic,Built-In Back Mic"/>
